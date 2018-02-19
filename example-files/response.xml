@@ -1,0 +1,10 @@
+<GetCourseDetailResponse xmlns="http://com.avinash.learn/courses"
+xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+xsi:schemaLocation="http://com.avinash.learn/courses course-details.xsd">
+
+  <CourseDetails>
+  <id>123</id>
+  <name>webservice</name>
+  <description>Learn Webservice basic</description>
+  </CourseDetails>
+</GetCourseDetailResponse>
